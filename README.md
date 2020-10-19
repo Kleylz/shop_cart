@@ -1,4 +1,4 @@
-# Vue 商城购物车模块开发
+# Vue 商城购物车开发
 
 ## Project setup
 ```
