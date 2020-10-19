@@ -1,4 +1,4 @@
-# shop_cart
+# Vue 商城购物车模块开发
 
 ## Project setup
 ```
